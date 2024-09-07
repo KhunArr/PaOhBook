@@ -1,0 +1,79 @@
+{"categories":[
+{"name":"လိတ်မဲ့ငါ", 
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/bk.png"
+},
+{"name":"ဓမ္မပဒ", 
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/bk.png"
+},
+{"name":"အင်္ဂုတ္တိုရ်ႏ", 
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/bk.png"
+},
+{"name":"ဇာတ်ဝတ္ထု", 
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/bk.png"
+},
+{"name":"ပေါင်ꩻစွုမ်ႏ", 
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/lpg.png"
+}],
+
+"လိတ်မဲ့ငါ":[
+    {"title":"လိတ်မွူးစောင်ႏ",
+  "desc":"မူ",
+  "category":"Action",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/Lm.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/lm1.jpg"},
+
+  {"title":"ဓမ္မပဒ ၁၁",
+  "desc":"၃၈",
+  "category":"Action",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd11.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd11.jpg"
+}],
+  
+"ဓမ္မပဒ":[
+{"title":"ဓမ္မပဒ ၁",
+  "desc":"၁",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd1.jpg"},
+
+  {"title":"ဓမ္မပဒ ၁၁",
+"desc":"၁၁",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd11.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd11.jpg"
+}],
+  
+"အင်္ဂုတ္တိုရ်ႏ":[
+{"title":"အင်္ဂုတ္တိုရ်ႏ ၁",
+  "desc":"၁",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/agt1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/agt1.jpg"},
+
+  {"title":"အင်္ဂုတ္တိုရ်ႏ ၄",
+"desc":"၄",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/agt4.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/agt4.jpg"
+}],
+
+"ဇာတ်ဝတ္ထု":[
+{"title":"ဇာတ်ဝတ္ထု ၅၅၀ (၁)",
+"desc":"၁",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/zwt1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/zwt1.jpg"},
+
+{"title":"ဇာတ်ဝတ္ထု ၅၅၀ (၁၀)",
+"desc":"၁၀",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/zwt10.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/zwt10.jpg"
+}],
+  
+  "ပေါင်ꩻစွုမ်ႏ":[
+{"title":"ပရိတ်ကြီး ၁၁သုတ်",
+"desc":"1",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/pr11.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/pr11.jpg"
+},
+    {"title":"တရာꩻရောင်ႏခ ၁၂",
+ "desc":"တ",
+  "link":"https://drive.google.com/uc?id=1pk9m2TaJhpWxLl-DZ6N5ML_rVHK2YFCn&export=download",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/trrc12.jpg"
+}]
+}
